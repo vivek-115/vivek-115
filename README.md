@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vivek Yadav</h1><h3 align="center">🚀 Aspiring Java Backend Developer from India</h3>
+<p align="center">Passionate about building robust, scalable backend systems using Java and Spring Boot. I love solving real-world problems with clean code, and I'm always curious to learn new technologies and best practices.</p>
+
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, MYSQL**
 
 - 📫 How to reach me **yadav.vivek7030@gmail.com**
 
