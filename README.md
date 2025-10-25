@@ -2,7 +2,7 @@
 <p align="center">Passionate about building robust, scalable backend systems using Java and Spring Boot. I love solving real-world problems with clean code, and I'm always curious to learn new technologies and best practices.</p>
 
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning ** to build scalable Production ready systems using Microservices Architecture**
 
 - 💬 Ask me about **Java, Spring Boot, MYSQL**
 
